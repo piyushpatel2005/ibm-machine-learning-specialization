@@ -16,14 +16,14 @@
 
 ### Week 2: Retrieving and Cleaning Data
 
-- [Lab: Reading Data in Database Files - Part A](week2/01a_DEMO_Reading_Data.html)
+- [Lab: Reading Data in Database Files - Part A](course2/week2/01a_DEMO_Reading_Data.html)
 
-- [Lab: Reading Data in Jupyter Notebook - Part B](week2/01b_LAB_Reading_Data.html)
+- [Lab: Reading Data in Jupyter Notebook - Part B](course2/week2/01b_LAB_Reading_Data.html)
 
-- [Practice Quiz: Retrieving Data](week2/quiz1.html)
+- [Practice Quiz: Retrieving Data](course2/week2/quiz1.html)
 
-- [Lab: Cleaning Data](week2/02_LAB_Data_Cleaning.html)
+- [Lab: Cleaning Data](course2/week2/02_LAB_Data_Cleaning.html)
 
-- [Practice Quiz: Cleaning Data](week2/quiz2.html)
+- [Practice Quiz: Cleaning Data](course2/week2/quiz2.html)
 
-- [Module 2 Quiz: Retrieving and Cleaning Data](week2/module2.html)
+- [Module 2 Quiz: Retrieving and Cleaning Data](course2/week2/module2.html)
